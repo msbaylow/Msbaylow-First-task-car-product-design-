@@ -1,0 +1,108 @@
+body{background-color: hsl(0, 0%, 95%);
+    width: 100%;
+    height: 100%;
+    
+    
+   
+   }
+   .all-product{
+    display: flex;
+    background-position: center;
+    margin: 10rem;
+    padding: 0.5rem;
+    width: 50%;
+   
+    
+    }
+    
+.head-1{background-color: hsl(31, 77%, 52%);
+    
+   }
+.head-2{background-color: hsl(184, 100%, 22%);
+}
+.head-3{background-color: hsl(179, 100%, 13%);
+}
+.sed{color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+   margin: 1.8rem;
+    padding: 0.5rem;
+    }
+
+.sed1{color: hsl(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    margin: 0rem;
+    padding: 1rem;
+    border: 1rem;
+    }
+
+.lux{color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    margin: 1.8rem;
+    padding: 0.5rem;
+    
+
+}
+.lux1{color: hsl(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    margin: 0rem;
+    padding: 1rem;
+    border: 1rem;
+
+
+}
+.suv{color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    margin: 1.8rem;
+    padding: 0.5rem;
+
+}
+.suv1{color: hsl(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    margin: 0rem;
+    padding: 1rem;
+    border: 1rem;
+
+
+}
+.btn1{background-color: hsl(0, 0%, 95%) ;
+    color:hsl(31, 77%, 52%) ;
+    margin: 1.5rem;
+    padding: 0.5rem;
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 20px;
+    width: 60%;
+    border-style: none;
+    
+    
+}
+.btn2{background-color: hsl(0, 0%, 95%) ;
+    color:hsl(184, 100%, 22%) ;
+    margin: 1.5rem;
+    padding: 0.5rem;
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 20px;
+    width: 60%;
+    border-style: none;
+    
+
+}
+.btn3{background-color: hsl(0, 0%, 95%) ;
+    color:hsl(179, 100%, 13%) ;
+    margin: 1.5rem;
+    padding: 0.5rem;
+    font-family: 'Lexend Deca', sans-serif;
+    border-radius: 20px;
+    width: 60%;
+    border-style: none;
+
+    
+    
+
+}
+
+
+
+
